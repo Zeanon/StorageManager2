@@ -1,0 +1,6 @@
+plugins {
+    storagemanager.java
+}
+
+dependencies {
+}

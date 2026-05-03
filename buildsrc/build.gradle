@@ -1,0 +1,15 @@
+plugins {
+    id 'groovy-gradle-plugin'
+}
+
+sourceSets {
+    main {
+        groovy {
+            srcDirs("src/")
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
