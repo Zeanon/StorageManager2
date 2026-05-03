@@ -1,6 +1,5 @@
 rootProject.name = "StorageManager2"
 
-/*
 dependencyResolutionManagement {
     repositories {
         mavenCentral()
@@ -18,6 +17,5 @@ dependencyResolutionManagement {
         }
     }
 }
- */
 
-// include("StorageManagerCore")
+include("StorageManagerCore")
