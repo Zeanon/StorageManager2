@@ -3,7 +3,6 @@ package de.storagemanager.core.interfaces;
 import de.storagemanager.core.files.FlatFile;
 import lombok.NonNull;
 
-
 /**
  * Base interface for ReloadSettings, provides a method to check whether to reload with the given setting
  *

@@ -9,7 +9,6 @@ import org.jetbrains.annotations.Nullable;
  * Enum defining the reload behaviour of the Data classes
  *
  * @author Zeanon
- * @version 2.1.0
  */
 @SuppressWarnings({"unused", "rawtypes"})
 public enum Reload implements ReloadSetting {

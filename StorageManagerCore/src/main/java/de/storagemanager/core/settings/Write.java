@@ -4,6 +4,12 @@ import de.storagemanager.core.files.FlatFile;
 import de.storagemanager.core.interfaces.WriteSetting;
 import org.jetbrains.annotations.Nullable;
 
+/**
+ * Enum defining the write behaviour of the Data classes
+ *
+ * @author YoyoNow
+ */
+@SuppressWarnings({"unused", "rawtypes"})
 public enum Write implements WriteSetting {
 
     /**
