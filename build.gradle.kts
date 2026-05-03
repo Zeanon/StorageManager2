@@ -4,5 +4,5 @@ plugins {
 
 allprojects {
     group = "de.storagemanager"
-    version = ""
+    version = "1.0-SNAPSHOT"
 }
