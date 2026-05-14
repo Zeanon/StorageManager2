@@ -1,6 +1,6 @@
 package de.storagemanager.core.interfaces;
 
-import de.storagemanager.core.files.FlatFile;
+import de.storagemanager.core.flat.FlatFile;
 import lombok.NonNull;
 
 /**

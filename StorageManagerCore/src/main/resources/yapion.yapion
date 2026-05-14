@@ -1,0 +1,13 @@
+{
+    ThisIsAKey(This is the Value)
+    ThisIsAnObject{}
+    ThisIsAnArray[
+        1,
+        2,
+        3,
+    ]
+    ThisIsAMap<
+        (Key):(Value)
+        {Another Key()}:(true)
+    >
+}

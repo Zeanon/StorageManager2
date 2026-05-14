@@ -1,0 +1,10 @@
+{
+  "This is a key": "This is a value",
+  "This is an object": {
+  },
+  "This is an array": [
+    "1",
+    "2",
+    3
+  ]
+}

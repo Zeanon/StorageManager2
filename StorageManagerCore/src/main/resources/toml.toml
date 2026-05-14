@@ -1,0 +1,8 @@
+[ThisIsASection]
+Key = "Value"
+
+[[ThisIsAnArray]]
+First = "1"
+
+[[ThisIsAnArray]]
+First = "2"

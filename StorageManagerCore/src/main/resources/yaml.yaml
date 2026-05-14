@@ -1,0 +1,10 @@
+ThisIsAKey: This is the Value
+
+ThisIsAnObject:
+  ThisIsTheNextKey: 0
+  Hugo: 2
+
+ThisIsAnArray:
+  - Hello
+  - World
+  - This

@@ -1,6 +1,6 @@
 package de.storagemanager.core.settings;
 
-import de.storagemanager.core.files.FlatFile;
+import de.storagemanager.core.flat.FlatFile;
 import de.storagemanager.core.interfaces.WriteSetting;
 import org.jetbrains.annotations.Nullable;
 
